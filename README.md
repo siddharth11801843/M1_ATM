@@ -18,4 +18,3 @@ Folder                   | Description
 `2_Architecture     `    | Behavioural and Structural Diagrams(Both High Level and Low Level)
 `3_Implemenatation `     | All code and documentation
 `4_Test plan     `       | Documents with test plans and procedures and Output
-`5_ImagesAndVideos`      | Code Execution Images and Videos
