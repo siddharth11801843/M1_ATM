@@ -19,6 +19,6 @@ jobs:
         sudo apt-get -y install libcunit1-doc libcunit1-dev
     - name: make test
       run: |
-        make test -C 3_Implementation/
-        valgrind ./3_Implemnetation
+        make test -C M1_ATM/3_Implementation/
+        valgrind ./M1_ATM/3_Implementation/build/ATM.out
       
