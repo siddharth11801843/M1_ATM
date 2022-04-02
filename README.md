@@ -6,9 +6,9 @@
 
 ## Badges
 
-Build | Code Quality | Unity | Codiga
-------|----------|-------|--------------
-[![C/C++ CI](https://github.com/siddharth11801843/M1_ATM/actions/workflows/c-build.yml/badge.svg)](https://github.com/siddharth11801843/M1_ATM/actions/workflows/c-build.yml) | [![cppcheck-action](https://github.com/siddharth11801843/M1_ATM/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/siddharth11801843/M1_ATM/actions/workflows/cppcheck.yml) | [![Unit testing](https://github.com/siddharth11801843/M1_ATM/actions/workflows/unit-test.yml/badge.svg)](https://github.com/siddharth11801843/M1_ATM/actions/workflows/unit-test.yml) | ![codiga](https://api.codiga.io/project/32463/score/svg)   ![codiga_grade](https://api.codiga.io/project/32463/status/svg)
+Build | Code Quality | Unity | Codiga | Codacy
+------|----------|-------|--------------|-------
+[![C/C++ CI](https://github.com/siddharth11801843/M1_ATM/actions/workflows/c-build.yml/badge.svg)](https://github.com/siddharth11801843/M1_ATM/actions/workflows/c-build.yml) | [![cppcheck-action](https://github.com/siddharth11801843/M1_ATM/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/siddharth11801843/M1_ATM/actions/workflows/cppcheck.yml) | [![Unit testing](https://github.com/siddharth11801843/M1_ATM/actions/workflows/unit-test.yml/badge.svg)](https://github.com/siddharth11801843/M1_ATM/actions/workflows/unit-test.yml) | ![codiga](https://api.codiga.io/project/32463/score/svg) |  ![codiga_grade](https://api.codiga.io/project/32463/status/svg)
 
 ## Folder Structure
 Folder                   | Description
