@@ -12,9 +12,10 @@ Build | Code Quality | Unity | Codiga | Codacy
 
 ## Folder Structure
 Folder                   | Description
--------------------------| -----------------------------------------
+-------------------------| ---------------------------------------
+`0_Certificates`         | Contain all Certificates
 `1_Requirements`         | Documents detailing requirements and research
-`2_Architecture     `         | Behavioural and Structural Diagrams(Both High Level and Low Level)
+`2_Architecture     `    | Behavioural and Structural Diagrams(Both High Level and Low Level)
 `3_Implemenatation `     | All code and documentation
 `4_Test plan     `       | Documents with test plans and procedures and Output
 `5_ImagesAndVideos`      | Code Execution Images and Videos
